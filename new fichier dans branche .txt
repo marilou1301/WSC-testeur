@@ -4,5 +4,5 @@ je suis dans la branche P000...
 je fais une deuxième
 suppression de la ligne 1
 
-troisième modif 
+je suis une autre personne ! je supprime le mot "branche"
 suppr mot "modif"
