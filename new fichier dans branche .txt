@@ -1,5 +1,8 @@
 je suis dans la branche P000...
 
 
-je fais une deuxième modif 
+je fais une deuxième
 suppression de la ligne 1
+
+troisième modif 
+suppr mot "modif"
